@@ -1,0 +1,38 @@
+{
+  "id": "rubycraft",
+  "name": "RubyCraft",
+  "description": "Una network nueva que intenta mejorar cada dia poco a poco",
+  "addresses": [
+    "mc.rubycraft.xyz"
+  ],
+  "primaryAddress": "mc.rubycraft.xyz",
+  "minecraftVersions": [
+    "1.8* x 26.1"
+  ],
+  "primaryMinecraftVersion": "1.18.2",
+  "primaryColor": "#9b111e",
+  "secondaryColor": "#1a1a1a",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "primaryGameType": "Prison",
+  "website": "https://tienda.rubycraft.xyz",
+  "store": "https://tienda.rubycraft.xyz",
+  "compliance": {
+    "privacyPolicy": "https://tienda.rubycraft.xyz",
+    "termsOfService": "https://tienda.rubycraft.xyz",
+    "rules": "https://tienda.rubycraft.xyz"
+  },
+  "socials": {
+    "discord": "https://discord.rubycraft.xyz"
+  },
+  "crossplay": true
+}
