@@ -3,9 +3,9 @@
   "name": "RubyCraft",
   "description": "Una network nueva que intenta mejorar cada dia poco a poco",
   "addresses": [
-    "mc.rubycraft.xyz"
+    "rubycraft.xyz"
   ],
-  "primaryAddress": "mc.rubycraft.xyz",
+  "primaryAddress": "rubycraft.xyz",
   "minecraftVersions": [
     "1.8* x 26.1"
   ],
